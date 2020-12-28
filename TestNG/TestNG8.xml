@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="NGActivity8">
+    <classes>
+      <class name="TestNGActivities.NGActivity7"/>
+      <class name="TestNGActivities.DemoOne"/>
+      <class name="TestNGActivities.NGActivity5"/>
+      <class name="TestNGActivities.NGActivity4"/>
+      <class name="TestNGActivities.NGActivity3"/>
+      <class name="TestNGActivities.NGActivity2"/>
+      <class name="TestNGActivities.NGActivity1"/>
+    </classes>
+  </test> <!-- NGActivity8 -->
+</suite> <!-- Suite -->
