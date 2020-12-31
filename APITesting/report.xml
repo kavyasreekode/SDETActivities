@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="API Activity3.Location test suite" time="24.762" tests="1" failures="0" errors="0" package="API Activity3" id="1">
+  <testsuite name="SDET API Project.https://petstore.swagger.io TestSuite" time="2.52" tests="1" failures="0" errors="0" package="SDET API Project" id="1">
     <properties>
       <property name="install4j.launcherId" value="376"/>
       <property name="java.specification.version" value="15"/>
@@ -84,6 +84,6 @@
       <property name="install4j.swt" value="false"/>
       <property name="soapui.properties" value="soapui.properties"/>
     </properties>
-    <testcase name="location TestCase" time="8.435"/>
+    <testcase name="https://petstore.swagger.io TestCase 1" time="2.305"/>
   </testsuite>
 </testsuites>
